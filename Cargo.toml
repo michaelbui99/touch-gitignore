@@ -2,6 +2,11 @@
 name = "touch-gitignore"
 version = "0.1.0"
 edition = "2021"
+authors = ["Michael Bui <michaelbui99@hotmail.com>"]
+license = "MIT"
+description = "Create .gitignore files based on GitHub's templates"
+readme = "README.md"
+keywords = ["cli", "gitignore"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
